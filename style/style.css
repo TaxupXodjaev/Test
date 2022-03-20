@@ -15,3 +15,10 @@ span{
     font-size: 100px;
     color: white;
 }
+.main{
+    background: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
